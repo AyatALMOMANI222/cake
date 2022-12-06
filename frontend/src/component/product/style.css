@@ -1,0 +1,51 @@
+ h1{
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+
+.di{
+    display: flex;
+    flex-direction: row;
+    margin-left: 370px;
+    margin-top: 30px;
+ }
+
+
+.con img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+  border-radius: 50px;
+  margin-top: 20px;
+ }
+
+ .box{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+    margin-top: 30px;
+    box-sizing: border-box;
+    /* box-shadow: 2px 2px 2px 2px rgba(118, 118, 134, 0.2); */
+ }
+
+ .box img{
+width: 200px;
+height: 200px;
+margin-top: 0px;
+ } 
+ .box h5{
+    margin-top: 3px;
+ }
+ .box p{
+margin-top: 4px;
+margin-bottom: 4px;
+ }
+
+ .box h4{
+    margin-bottom: 2px;
+ }
